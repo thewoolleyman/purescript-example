@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/thewoolleyman/purescript-example.git",
   "author": "Chad Woolley",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "dependencies": {
+    "purescript": "^0.11.7"
+  }
 }
